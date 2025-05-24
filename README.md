@@ -16,4 +16,4 @@
 
 **Equity Curve and Drawdown**
 
-![TSLA equity](images/tsla_equity_dd.png)
+![TSLA equity](tsla_equity_dd.png)
